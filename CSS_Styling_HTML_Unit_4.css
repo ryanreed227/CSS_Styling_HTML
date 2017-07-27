@@ -1,0 +1,48 @@
+* {
+    background-color: white;
+  }
+
+h1 {
+  font-family: Arial;
+  color: #b22222;
+  font-size: 26px;
+}
+
+h3 {
+  color: #DC143C;
+  font-size: 22px;
+}
+
+p {
+  color: #a7f442;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+.blue {
+  color: blue;
+}
+
+a {
+  color: blue;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+}
